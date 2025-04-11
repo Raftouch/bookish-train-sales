@@ -1,0 +1,5 @@
+[
+  { "produit": "Produit A", "ventes_par_produit": 17500 },
+  { "produit": "Produit B", "ventes_par_produit": 15825 },
+  { "produit": "Produit C", "ventes_par_produit": 11500 }
+]
